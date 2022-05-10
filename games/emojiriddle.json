@@ -1,0 +1,98 @@
+[
+  {
+    "index": 0,
+    "question": "🛏️+😳+L",
+    "type": "Subject Name",
+    "answer": "SOCIAL"
+  },
+  {
+    "index": 1,
+    "question": "✒️+🤥+SH",
+    "type": "Subject Name",
+    "answer": "ENGLISH"
+  },
+  {
+    "index": 2,
+    "question": " 💵+😷+CS",
+    "type": "Subject Name",
+    "answer": "MATHEMATICS"
+  },
+  {
+    "index": 3,
+    "question": "🐓+D",
+    "type": "Subject Name",
+    "answer": "HINDI"
+  },
+  {
+    "index": 4,
+    "question": "SIN+C",
+    "type": "Subject Name",
+    "answer": "SCIENCE"
+  },
+  {
+    "index": 5,
+    "question": "©+🙎‍♂️+🌳",
+    "type": "Subject Name",
+    "answer": "CHEMISTRY"
+  },
+  {
+    "index": 6,
+    "question": "🐍+🌲",
+    "type": "Subject Name",
+    "answer": "HISTORY"
+  },
+  {
+    "index": 7,
+    "question": "📲+❄️+🇺🇸",
+    "type": "Subject Name",
+    "answer": "CALCULUS"
+  },
+  {
+    "index": 8,
+    "question": " 🥇+⌚+🎙️+S",
+    "type": "Subject Name",
+    "answer": "ECONOMICS"
+  },
+  {
+    "index": 9,
+    "question": "GO+📊",
+    "type": "Subject Name",
+    "answer": "GEOGRAPHY"
+},
+  {
+    "index": 10,
+    "question": "🚫 + er",
+    "type": "Things Name",
+    "answer": "Banner"
+},
+  {
+    "index": 11,
+    "question": "☀️ + glass",
+    "type": "for fashion",
+    "answer": "SUNGLASSES"
+},
+    {
+    "index": 12,
+    "question": "🍯 + 🌕",
+    "type": "To Celebrate",
+    "answer": "HONEYMOON"
+},
+  {
+    "index": 13,
+    "question": "🌹+ go + 🌕",
+    "type": "Sweets",
+    "answer": "Gulab jamun"
+},
+    {
+    "index": 14,
+    "question": "🌍 + 🏆",
+    "type": "To Win",
+    "answer": "Worldcup"
+},
+  {
+    "index": 15,
+    "question": "❌ + Book",
+    "type": "Study Material",
+    "answer": "Notebook"
+},
+]

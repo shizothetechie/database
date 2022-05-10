@@ -1,0 +1,670 @@
+[
+  {
+    "index": 0,
+    "question": "O-D-T-R-O-C",
+    "type": "Profession",
+    "answer": "DOCTOR"
+  },
+  {
+    "index": 1,
+    "question": "L-I-M-B-O-E",
+    "type": "Object",
+    "answer": "MOBILE"
+  },
+  {
+    "index": 2,
+    "question": "U-G-J-D-E",
+    "type": "Profession",
+    "answer": "JUDGE"
+  },
+  {
+    "index": 3,
+    "question": "T-R-A-G-I-U",
+    "type": "Object",
+    "answer": "GUITAR"
+  },
+  {
+    "index": 4,
+    "question": "E-I-F-N-K",
+    "type": "Object",
+    "answer": "KNIFE"
+  },
+  {
+    "index": 5,
+    "question": "E-P-I-P",
+    "type": "Object",
+    "answer": "PIPE"
+  },
+  {
+    "index": 6,
+    "question": "N-C-E-K-I-C-H",
+    "type": "Animal",
+    "answer": "CHICKEN"
+  },
+  {
+    "index": 7,
+    "question": "H-A-E-d",
+    "type": "Object",
+    "answer": "HEAD"
+  },
+  {
+    "index": 8,
+    "question": "R-A-C-H-I",
+    "type": "Object",
+    "answer": "CHAIR"
+  },
+  {
+    "index": 9,
+    "question": "N-M-O-E-Y",
+    "type": "Object",
+    "answer": "MONEY"
+  },
+  {
+    "index": 10,
+    "question": "G-D-O",
+    "type": "Animal",
+    "answer": "DOG"
+  },
+  {
+    "index": 11,
+    "question": "U-T-D-O-N-S",
+    "type": "Food",
+    "answer": "DONUTS"
+  },
+  {
+    "index": 12,
+    "question": "P-A-C",
+    "type": "Object",
+    "answer": "CAP"
+  },
+  {
+    "index": 13,
+    "question": "M-M-U-A-B-I",
+    "type": "City",
+    "answer": "MUMBAI"
+  },
+  {
+    "index": 14,
+    "question": "E-G-R-A-V",
+    "type": "Place",
+    "answer": "GRAVE"
+  },
+  {
+    "index": 15,
+    "question": "A-T-C",
+    "type": "Animal",
+    "answer": "CAT"
+  },
+  {
+    "index": 16,
+    "question": "L-F-A-G",
+    "type": "Object",
+    "answer": "FLAG"
+  },
+  {
+    "index": 17,
+    "question": "A-N-I-P-O",
+    "type": "Object",
+    "answer": "PIANO"
+  },
+  {
+    "index": 18,
+    "question": "L-A-P-P-E",
+    "type": "Fruit",
+    "answer": "APPLE"
+  },
+  {
+    "index": 19,
+    "question": "E-B-R-A",
+    "type": "Animal",
+    "answer": "BEAR"
+  },
+  {
+    "index": 20,
+    "question": "A-B-T-L-E",
+    "type": "Object",
+    "answer": "TABLE"
+  },
+  {
+    "index": 21,
+    "question": "I-R-B-D",
+    "type": "Animal",
+    "answer": "BIRD"
+  },
+  {
+    "index": 22,
+    "question": "B-L-U-L",
+    "type": "Animal",
+    "answer": "BULL"
+  },
+  {
+    "index": 23,
+    "question": "A-N-M-G-O",
+    "type": "Fruit",
+    "answer": "MANGO"
+  },
+  {
+    "index": 24,
+    "question": "B-N-N-A-A",
+    "type": "Fruit",
+    "answer": "BANANA"
+  },
+  {
+    "index": 25,
+    "question": "I-F-H-S",
+    "type": "Animal",
+    "answer": "FISH"
+  },
+  {
+    "index": 26,
+    "question": "R-O-D-O",
+    "type": "Object",
+    "answer": "DOOR"
+  },
+  {
+    "index": 27,
+    "question": "O-F-X",
+    "type": "Animal",
+    "answer": "FOX"
+  },
+  {
+    "index": 28,
+    "question": "S-I-L-P-E-P-R-S",
+    "type": "Object",
+    "answer": "SLIPPERS"
+  },
+  {
+    "index": 29,
+    "question": "X-O",
+    "type": "Animal",
+    "answer": "OX"
+  },
+  {
+    "index": 30,
+    "question": "P-P-A-E-R",
+    "type": "Object",
+    "answer": "PAPER"
+  },
+  {
+    "index": 31,
+    "question": "K-M-A-S",
+    "type": "Object",
+    "answer": "MASK"
+  },
+  {
+    "index": 32,
+    "question": "O-S-P-A",
+    "type": "Object",
+    "answer": "SOAP"
+  },
+  {
+    "index": 33,
+    "question": "M-A-C-E-L",
+    "type": "Animal",
+    "answer": "CAMEL"
+  },
+  {
+    "index": 34,
+    "question": "D-A-C-N-E-L",
+    "type": "Object",
+    "answer": "CANDLE"
+  },
+  {
+    "index": 35,
+    "question": "O-X-B",
+    "type": "Object",
+    "answer": "BOX"
+  },
+  {
+    "index": 36,
+    "question": "A-K-U-P",
+    "type": "Object",
+    "answer": "PAKU"
+  },
+  {
+    "index": 37,
+    "question": "V-A-A-U-G",
+    "type": "Fruit",
+    "answer": "GUAVA"
+  },
+  {
+    "index": 38,
+    "question": "G-B-A",
+    "type": "Object",
+    "answer": "BAG"
+  },
+  {
+    "index": 39,
+    "question": "I-H-C-A-R",
+    "type": "Object",
+    "answer": "CHAIR"
+  },
+  {
+    "index": 40,
+    "question": "W-C-O",
+    "type": "Animal",
+    "answer": "COW"
+  },
+  {
+    "index": 41,
+    "question": "T-G-O-A",
+    "type": "Animal",
+    "answer": "GOAT"
+  },
+  {
+    "index": 42,
+    "question": "N-A-S-E-K",
+    "type": "Animal",
+    "answer": "SNAKE"
+  },
+  {
+    "index": 43,
+    "question": "W-P-L-L-I-O",
+    "type": "Object",
+    "answer": "PILLOW"
+  },
+  {
+    "index": 44,
+    "question": "D-P-C-U-B-O-R-A",
+    "type": "Object",
+    "answer": "CUPBOARD"
+  },
+  {
+    "index": 45,
+    "question": "U-S-S-E-I-T",
+    "type": "Object",
+    "answer": "TISSUE"
+  },
+  {
+    "index": 46,
+    "question": "P-L-E-T-A",
+    "type": "Object",
+    "answer": "PLATE"
+  },
+  {
+    "index": 47,
+    "question": "D-I-N-I-A",
+    "type": "Country",
+    "answer": "INDIA"
+  },
+  {
+    "index": 48,
+    "question": "L-C-E-N-P-L",
+    "type": "Object",
+    "answer": "PENCIL"
+  },
+  {
+    "index": 49,
+    "question": "D-O-W-0",
+    "type": "Object",
+    "answer": "WOOD"
+  },
+  {
+    "index": 50,
+    "question": "B-I-R-C-K",
+    "type": "Object",
+    "answer": "BRICK"
+  },
+  {
+    "index": 51,
+    "question": "O-M-O-R-B",
+    "type": "Object",
+    "answer": "BROOM"
+  },
+  {
+    "index": 52,
+    "question": "N-A-T-P",
+    "type": "City",
+    "answer": "PATNA"
+  },
+  {
+    "index": 53,
+    "question": "P-G-N-I-T-A-N-I",
+    "type": "Object",
+    "answer": "PAINTING"
+  },
+  {
+    "index": 54,
+    "question": "D-G-F-I-E-R",
+    "type": "Object",
+    "answer": "FRIDGE"
+  },
+  {
+    "index": 55,
+    "question": "B-A-R-B-T-I",
+    "type": "Animal",
+    "answer": "RABBIT"
+  },
+  {
+    "index": 56,
+    "question": "N-T-A",
+    "type": "Animal",
+    "answer": "A-N-T"
+  },
+  {
+    "index": 57,
+    "question": "G-C-H-R-A-E-R",
+    "type": "Object",
+    "answer": "CHARGER"
+  },
+  {
+    "index": 58,
+    "question": "W-O-T-L-E",
+    "type": "Object",
+    "answer": "TOWEL"
+  },
+  {
+    "index": 59,
+    "question": "P-E-A",
+    "type": "Animal",
+    "answer": "APE"
+  },
+  {
+    "index": 60,
+    "question": "O-E-S-H",
+    "type": "Object",
+    "answer": "SHOE"
+  },
+  {
+    "index": 61,
+    "question": "K-R-O-F",
+    "type": "Object",
+    "answer": "FORK"
+  },
+  {
+    "index": 62,
+    "question": "R-C-W-O",
+    "type": "Bird",
+    "answer": "CROW"
+  },
+  {
+    "index": 63,
+    "question": "H-E-S-E-P",
+    "type": "Animal",
+    "answer": "SHEEP"
+  },
+  {
+    "index": 64,
+    "question": "T-H-O-L-E",
+    "type": "Place",
+    "answer": "HOTEL"
+  },
+  {
+    "index": 65,
+    "question": "G-F-F-R-I-A-E",
+    "type": "Animal",
+    "answer": "GIRAFFE"
+  },
+  {
+    "index": 66,
+    "question": "O-G-A",
+    "type": "Place",
+    "answer": "GOA"
+  },
+  {
+    "index": 67,
+    "question": "R-R-R-O-M-I",
+    "type": "Object",
+    "answer": "MIRROR"
+  },
+  {
+    "index": 68,
+    "question": "M-O-P-E-T-U-R-C",
+    "type": "Object",
+    "answer": "COMPUTER"
+  },
+  {
+    "index": 69,
+    "question": "M-E-T-R-H-O-S",
+    "type": "Object",
+    "answer": "THERMOS"
+  },
+  {
+    "index": 70,
+    "question": "U-J-G",
+    "type": "Object",
+    "answer": "JUG"
+  },
+  {
+    "index": 71,
+    "question": "T-C-U-R-A-N-I",
+    "type": "Object",
+    "answer": "CURTAIN"
+  },
+  {
+    "index": 72,
+    "question": "T-O-R-A-P-I-R",
+    "type": "Place",
+    "answer": "AIRPORT"
+  },
+  {
+    "index": 73,
+    "question": "S-U-U-S",
+    "type": "Organ",
+    "answer": "USUS"
+  },
+  {
+    "index": 74,
+    "question": "L-B-U-L",
+    "type": "Animal",
+    "answer": "BULL"
+  },
+  {
+    "index": 75,
+    "question": "H-S-H-E-E-P",
+    "type": "Animal",
+    "answer": "SHEEP"
+  },
+  {
+    "index": 76,
+    "question": "E-M-N-O-L",
+    "type": "Fruit",
+    "answer": "LEMON"
+  },
+  {
+    "index": 77,
+    "question": "N-E-P",
+    "type": "Object",
+    "answer": "PEN"
+  },
+  {
+    "index": 78,
+    "question": "R-O-G-E-N-A",
+    "type": "Fruit",
+    "answer": "ORANGE"
+  },
+  {
+    "index": 79,
+    "question": "M-R-O-T-E-E",
+    "type": "Object",
+    "answer": "REMOTE"
+  },
+  {
+    "index": 80,
+    "question": "S-O-R-E",
+    "type": "Flower",
+    "answer": "ROSE"
+  },
+  {
+    "index": 81,
+    "question": "L-L-Y-I",
+    "type": "Flower",
+    "answer": "LILY"
+  },
+  {
+    "index": 82,
+    "question": "O-W-L-F-R-E",
+    "type": "Plant",
+    "answer": "FLOWER"
+  },
+  {
+    "index": 83,
+    "question": "I-T-U-L-P",
+    "type": "Flower",
+    "answer": "TULIP"
+  },
+  {
+    "index": 84,
+    "question": "Y-P-C-O",
+    "type": "Object",
+    "answer": "COPY"
+  },
+  {
+    "index": 85,
+    "question": "E-J-S-A-N-I-M",
+    "type": "Flower",
+    "answer": "JASMINE"
+  },
+  {
+    "index": 86,
+    "question": "E-O-S-N",
+    "type": "Parts of body",
+    "answer": "NOSE"
+  },
+  {
+    "index": 87,
+    "question": "L-I-P-T-O",
+    "type": "Work",
+    "answer": "PILOT"
+  },
+  {
+    "index": 88,
+    "question": "N-A-H-D",
+    "type": "Parts of body",
+    "answer": "HAND"
+  },
+  {
+    "index": 89,
+    "question": "Y-E-E",
+    "type": "Parts of body",
+    "answer": "EYE"
+  },
+  {
+    "index": 90,
+    "question": "G-E-L",
+    "type": "Parts of body",
+    "answer": "LEG"
+  },
+  {
+    "index": 91,
+    "question": "S-C-H-E-S",
+    "type": "Object",
+    "answer": "CHESS"
+  },
+  {
+    "index": 92,
+    "question": "M-R-T-O-O",
+    "type": "Object",
+    "answer": "MOTOR"
+  },
+  {
+    "index": 93,
+    "question": "L-S-A-C-S",
+    "type": "Place",
+    "answer": "CLASS"
+  },
+  {
+    "index": 94,
+    "question": "O-C-H-O-L-S",
+    "type": "Place",
+    "answer": "SCHOOL"
+  },
+  {
+    "index": 95,
+    "question": "A-R-T",
+    "type": "Animal",
+    "answer": "RAT"
+  },
+  {
+    "index": 96,
+    "question": "C-R-I-E",
+    "type": "Object",
+    "answer": "RICE"
+  },
+  {
+    "index": 97,
+    "question": "N-T-A",
+    "type": "Animal",
+    "answer": "ANT"
+  },
+  {
+    "index": 98,
+    "question": "E-W-T-O-L",
+    "type": "Object",
+    "answer": "TOWEL"
+  },
+  {
+    "index": 99,
+    "question": "N-O-W-I-D",
+    "type": "Object",
+    "answer": "WINDOW"
+  },
+  {
+    "index": 100,
+    "question": "L-H-D-E-I",
+    "type": "Place",
+    "answer": "DELHI"
+  },
+  {
+    "index": 101,
+    "question": "T-U-C-C-O-N-O",
+    "type": "Fruit",
+    "answer": "COCONUT"
+  },
+  {
+    "index": 102,
+    "question": "O-N-C-H-A-M-E-E-L",
+    "type": "Animal",
+    "answer": "CHAMELEON"
+  },
+  {
+    "index": 103,
+    "question": "A-N-T-R-O-R-S-E-U-A",
+    "type": "Place",
+    "answer": "RESTAURANT"
+  },
+  {
+    "index":104,
+    "question": "C-S-L-A-E",
+    "type": "object",
+    "answer": "SCALE"
+  },
+  { 
+    "index": 105,
+    "question": "L-E-W-Y-R-A",
+    "type": " Proffession",
+    "answer": " LAWYER"
+},
+{
+  "index": 106,
+  "question": "O-U-E-S-M",
+  "type": "Object",
+  "answer": "MOUSE"
+},
+{
+  "index": 107,
+  "question": "L-B-T-E-A",
+  "type": "Object",
+  "answer": "TABLE"
+},
+{
+  "index": 108,
+  "question": "C-E-R-C-I-T-K",
+  "type": "Sports",
+  "answer": "CRICKET"
+},
+{ 
+  "index": 109,
+  "question": "I-H-C-R-A",
+  "type": "Object",
+  "answer": "CHAIR"
+},
+{
+  "index": 110,
+  "question": "O-K-O-B",
+  "type":"Object",
+  "answer": "BOOK"
+}
+  
+  
+]
