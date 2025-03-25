@@ -1,0 +1,1 @@
+Copyrighted to shizo techie 
